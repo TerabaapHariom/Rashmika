@@ -1,24 +1,23 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, I am a Movie Searcher/Filter Bot..
-
-I also have some amazing fun features..check it manually... :)
-
-📌Bot will be off Everyday 12am - 7am at night for saving heroku dyno hours!😐
-
+    START_TXT = """ Hello  {},
+My Name is <a href=https://t.me/{}>{}</a>, I am best Movie Searcher Bot on Telegram .
 🧿Just Add me to Your Group As Admin, Whenever any Group user requests for the movie/series,I will found the movie via my database..😍😍"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
+⚡If you find this bot helpful ,then please share it with your friends and family ❤️
+💵You can also donate here , UPI ID : akt2002@airtel
+✨Team @SouthTamilall1 
+
+  HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/SouthTamilall1>Team SouthTamilall</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/SouthTamilall1>Team SouthTamilall1 </a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source -  https://t.me/thefuture_ias
+- This is a open source project. 
+- Source -  https://t.me/SouthTamilall1bots
 
 <b>DEVS:</b>
 - <a href=https://t.me/SouthTamilall1>Team SouthTamilall</a>"""

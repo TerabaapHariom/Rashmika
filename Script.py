@@ -1,10 +1,10 @@
 class script(object):
     START_TXT = """ Hello  {},
 My Name is <a href=https://t.me/{}>{}</a>, I am best Movie Searcher Bot on Telegram .
-🧿Just Add me to Your Group As Admin, Whenever any Group user requests for the movie/series,I will found the movie via my database..😍😍"""
+🧿Just Add me to Your Group As Admin, Whenever any Group user requests for the movie/series,I will found the movie via my database..😍😍
 ⚡If you find this bot helpful ,then please share it with your friends and family ❤️
 💵You can also donate here , UPI ID : akt2002@airtel
-✨Team @SouthTamilall1 
+✨Team @SouthTamilall1 """
 
   HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
